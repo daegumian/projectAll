@@ -1,0 +1,38 @@
+기본 페이지 구성
+-메인페이지
+-로그인/회원가입
+-아이디/비밀번호 찾기
+
+
+//NOTE - 영어 -> 일본어 번역 예시
+//NOTE - English -> Japanese Translation Example 1
+
+English : Ryan! Look who's here!
+Japanese : ライアンさん！見て、誰がここに来ているか！
+Korean : 라이언씨! 이게 대체 누구야!
+Korean(pronunciation) : 라이언 상! 미테, 다레 가 코코니 키테 이루 카!
+
+English : Good to see you. What a small world.
+Japanese : お会いできて嬉しいです。まさかこんなに小さな世界だなんて。
+Korean : 반가워. 세상 참 좁다.
+Korean(pronunciation) : 오아이 데키테 우레시이데스. 마사카 콘나니 치이사나 세카이다난테.
+
+English : Long time no see. How have you been?
+Japanese : お久しぶりです。元気してましたか？
+Korean : 오랜만이야. 어떻게 지냈어?
+Korean(pronunciation) : 오이사시부리데스. 겐키 시테마시타카?
+
+English : I'm doing great. You haven't changed a bit.
+Japanese : 元気で良かった。何一つ変わっていないね。
+Korean : 잘 지내고 있어. 넌 하나도 안 변했구나.
+Korean(pronunciation) : 겐키데 요코타. 나니히토 카와테이나이네.
+
+English : Nice talking to you. Say hello to your wife.
+Japanese : お話できて嬉しかったです。奥さんによろしく。
+Korean : 대화 즐거웠어. 와이프한테 안부 전해 줘.
+Korean(pronunciation) : 오하나시 데키테 우레시카타데스. 오키산니 요로시쿠.
+
+English : Catch you later. I'll keep in touch.
+Japanese : またね。連絡を取りますね。
+Korean : 나중에 봐. 내가 연락할게.
+Korean(pronunciation) : 마타네. 렌라쿠오 토리마

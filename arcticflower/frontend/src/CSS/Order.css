@@ -1,0 +1,30 @@
+.centered-container {
+  text-align: center;
+}
+
+.orders-table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.orders-table th,
+.orders-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.full-width-button {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.link-to-home {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}

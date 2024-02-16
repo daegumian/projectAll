@@ -1,0 +1,54 @@
+/* Sentence.css */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* 추가된 부분 */
+}
+
+.sentence-container {
+  text-align: center;
+}
+
+.input-container {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.delete-button {
+  cursor: pointer;
+  color: red;
+  margin-left: 5px;
+}
+
+.input-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-row div {
+  margin-right: 10px;
+}
+
+.input-row button {
+  margin-top: 10px;
+}
